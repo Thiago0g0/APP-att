@@ -16,13 +16,13 @@ const DATA = [
   },
   {
     id: '58694a0f-3da1-471f-bd96-145571e29d72',
-    title: 'Fazer prova TOIC',
+    title: 'Dormir',
     completed: false,
     date: '2024-08-15', 
   },
   {
     id: '58794a0f-3da1-471f-bd96-145571e29d72',
-    title: 'Pintar a unha',
+    title: 'Jogar bola',
     completed: false,
     date: '2024-08-15', 
   },
